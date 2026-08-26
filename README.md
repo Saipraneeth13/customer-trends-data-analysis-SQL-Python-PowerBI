@@ -67,14 +67,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 MIT — feel free to fork, star, and use in your portfolio.
 
-## 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator.
-I break down complex data topics into simple, practical content that actually helps you land a job.
-
- ### 🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
-
-💼 LinkedIn: [Amlan Mohanty]([https://www.linkedin.com/in/amlanmohanty1/](https://www.linkedin.com/in/sai-sri-praneeth-bandi-/))
+💼 LinkedIn: [sai praneeth]([https://www.linkedin.com/in/amlanmohanty1/](https://www.linkedin.com/in/sai-sri-praneeth-bandi-/))
 - Let’s connect professionally and grow your data career
 
 
