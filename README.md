@@ -37,8 +37,7 @@ Summarize the analysis, key findings, and business recommendations through a pro
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
+git@github.com:Saipraneeth13/zomato-ai-data-engineering-end-to-end-project.git
 ```
 
 ### 2. Open the Python Notebook
